@@ -1,0 +1,63 @@
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\HeroSystemsEngineUI.exe.config
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\HeroSystemsEngineUI.exe
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\HeroSystemsEngineUI.pdb
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\HeroSystemsEngine.dll
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\Newtonsoft.Json.dll
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\Ploeh.AutoFixture.dll
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\Microsoft.Xna.Framework.dll
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\nunit.core.interfaces.dll
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\Ploeh.AutoFixture.NUnit2.Addins.dll
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\NCrunch.Framework.dll
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\Ploeh.AutoFixture.AutoMoq.dll
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\HeroSystemsEngine.pdb
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\HeroSystemsEngine.dll.config
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\Newtonsoft.Json.xml
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\Ploeh.AutoFixture.xml
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\Ploeh.AutoFixture.NUnit2.Addins.xml
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\bin\Debug\Ploeh.AutoFixture.AutoMoq.xml
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI.csprojResolveAssemblyReference.cache
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\CombatSequenceWidget.g.cs
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\MainWindow.g.cs
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\App.g.cs
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI_MarkupCompile.cache
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI_MarkupCompile.lref
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\CombatSequenceWidget.baml
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\MainWindow.baml
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI.g.resources
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI.Properties.Resources.resources
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI.csproj.GenerateResource.Cache
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI.exe
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI.pdb
+c:\Users\thoma\documents\visual studio 2017\Projects\BikeShop\HeroSystemsEngineUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\HeroSystemsEngineUI.exe.config
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\HeroSystemsEngineUI.exe
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\HeroSystemsEngineUI.pdb
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\HeroSystemsEngine.dll
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\Newtonsoft.Json.dll
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\Ploeh.AutoFixture.dll
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\Microsoft.Xna.Framework.dll
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\nunit.core.interfaces.dll
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\Ploeh.AutoFixture.NUnit2.Addins.dll
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\NCrunch.Framework.dll
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\Ploeh.AutoFixture.AutoMoq.dll
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\HeroSystemsEngine.pdb
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\HeroSystemsEngine.dll.config
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\Newtonsoft.Json.xml
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\Ploeh.AutoFixture.xml
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\Ploeh.AutoFixture.NUnit2.Addins.xml
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\bin\Debug\Ploeh.AutoFixture.AutoMoq.xml
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI.csprojResolveAssemblyReference.cache
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\obj\Debug\MainWindow.g.cs
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\obj\Debug\App.g.cs
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI_MarkupCompile.cache
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI_MarkupCompile.lref
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\obj\Debug\MainWindow.baml
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI.g.resources
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI.Properties.Resources.resources
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI.csproj.GenerateResource.Cache
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI.exe
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\obj\Debug\HeroSystemsEngineUI.pdb
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\obj\Debug\CombatSequenceWidget.g.cs
+C:\coh\applications\HeroSystemEngineUI\HeroSystemsEngineUI\obj\Debug\CombatSequenceWidget.baml
